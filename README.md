@@ -2,7 +2,7 @@
 
 A macOS menu bar plugin to monitor and control GitHub Actions self-hosted runners.
 
-![screenshot](screenshot.png)
+<!-- Screenshot coming soon -->
 
 ## Features
 
